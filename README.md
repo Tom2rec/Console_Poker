@@ -1,0 +1,2 @@
+Protokół komunikacyjny
+ID_GRY:ID_GRACZA:RODZAJ_RUCHU:PARAMETRY_RUCHU
